@@ -110,7 +110,7 @@ while space_exist():
         print(' >> Invalid number ! Try again !')
         continue
     #
-    if won:
+    if won: '*** Congrats ! You won ! ***'
         # TODO
 
         break
